@@ -1,0 +1,316 @@
+lead_id,fecha,origen,nombre,email,telefono,comuna,interes,estado_crm
+L0001,2026-11-02,redes,Laura Torres,laura.torres15@ejemplo.cl,+569 000 1778,Zona Oriente,oficina,enviado
+L0002,2026-11-11,web,Daniela Díaz,daniela.diaz37@ejemplo.cl,+569 000 6146,Zona Centro,hotel,enviado
+L0003,2026-11-08,referido,Andrés Díaz,andres.diaz4ejemplo.cl,+569 000 3154,Zona Sur,hotel,enviado
+L0004,2026-11-09,web,Hilda Pérez,hilda.perez3@ejemplo.cl,+569 000 8724,Zona Oriente,hotel,error de envío
+L0005,2026-11-05,referido,Camilo Mora,camilo.mora41@ejemplo.cl,+569 000 8409,Zona Oriente,oficina,enviado
+L0006,2026-11-01,web,Camilo Muñoz,camilo.muñoz77ejemplo.cl,+569 000 7484,Zona Centro,restaurante,enviado
+L0007,2026-11-14,feria,Francisca Vera,francisca.vera52@ejemplo.cl,,Zona Sur,hotel,enviado
+L0008,2026-11-01,feria,Gonzalo Vera,gonzalo.vera57@ejemplo.cl,+569 000 9426,Zona Oriente,hotel,enviado
+L0009,2026-11-02,referido,Esteban Muñoz,esteban.muñoz69@ejemplo.cl,+569 000 1740,Zona Sur,hotel,enviado
+L0010,2026-11-14,web,Kevin Rojas,kevin.rojas93@ejemplo.cl,+569 000 6919,Zona Sur,hogar,enviado
+L0011,2026-11-11,redes,Francisca Soto,francisca.soto92@ejemplo.cl,+569 000 8670,Zona Centro,hogar,enviado
+L0012,2026-11-13,redes,Camilo Pérez,camilo.perez26@ejemplo.cl,+569 000 7767,Zona Sur,restaurante,error de envío
+L0013,2026-11-16,referido,Andrés Leiva,andres.leiva71@ejemplo.cl,+569 000 8033,Zona Centro,hogar,enviado
+L0014,2026-11-16,redes,Camilo Mora,camilo.mora9@ejemplo.cl,+569 000 8230,Zona Norte,oficina,enviado
+L0015,2026-11-09,redes,Jimena Leiva,jimena.leiva63@ejemplo.cl,+569 000 3495,Zona Centro,hotel,enviado
+L0016,2026-11-11,referido,Hilda Díaz,hilda.diaz57@ejemplo.cl,+569 000 9543,Zona Norte,restaurante,enviado
+L0017,2026-11-19,referido,Hilda Vera,hilda.vera19@ejemplo.cl,+569 000 1716,Zona Centro,hotel,enviado
+L0018,2026-11-03,redes,Bárbara Soto,barbara.soto25@ejemplo.cl,+569 000 6400,Zona Norte,restaurante,error de envío
+L0019,2026-11-17,referido,Francisca Torres,francisca.torres65@ejemplo.cl,,Zona Norte,hogar,enviado
+L0020,2026-11-12,web,Bárbara Ortiz,barbara.ortiz85@ejemplo.cl,+569 000 3351,Zona Norte,hotel,enviado
+L0021,2026-11-18,web,Daniela Leiva,daniela.leiva4@ejemplo.cl,,Zona Oriente,restaurante,enviado
+L0022,2026-11-08,feria,Bárbara Silva,barbara.silva19@ejemplo.cl,,Zona Centro,oficina,enviado
+L0023,2026-11-09,web,Ignacio Soto,ignacio.soto52@ejemplo.cl,+569 000 9908,Zona Oriente,oficina,enviado
+L0024,2026-11-15,redes,Camilo Soto,camilo.soto51@ejemplo.cl,+569 000 2553,Zona Oriente,hotel,enviado
+L0025,2026-11-14,web,Camilo Ortiz,camilo.ortiz48@ejemplo.cl,+569 000 1599,Zona Oriente,hotel,enviado
+L0026,2026-11-16,redes,Bárbara Muñoz,barbara.muñoz42@ejemplo.cl,+569 000 8778,Zona Centro,hogar,enviado
+L0027,2026-11-05,redes,Francisca Silva,francisca.silva86@ejemplo.cl,+569 000 2611,Zona Centro,restaurante,enviado
+L0028,2026-11-20,feria,Daniela Díaz,daniela.diaz70@ejemplo.cl,+569 000 8990,Zona Centro,oficina,enviado
+L0029,2026-11-16,referido,Andrés Vera,andres.vera57@ejemplo.cl,,Zona Sur,oficina,enviado
+L0030,2026-11-09,feria,Camilo Soto,camilo.soto44@ejemplo.cl,,Zona Sur,hotel,enviado
+L0031,2026-11-06,feria,Bárbara Muñoz,barbara.muñoz82@ejemplo.cl,+569 000 2203,Zona Oriente,oficina,enviado
+L0032,2026-11-12,feria,Andrés Vera,andres.vera89@ejemplo.cl,,Zona Centro,hogar,enviado
+L0033,2026-11-07,referido,Ignacio Soto,ignacio.soto91@ejemplo.cl,,Zona Centro,oficina,enviado
+L0034,2026-11-09,feria,Gonzalo Vera,gonzalo.vera5@ejemplo.cl,+569 000 8695,Zona Norte,hogar,enviado
+L0035,2026-11-01,referido,Ignacio Silva,ignacio.silva76ejemplo.cl,+569 000 9121,Zona Sur,hogar,enviado
+L0036,2026-11-08,redes,Jimena Pérez,jimena.perez97@ejemplo.cl,+569 000 3940,Zona Oriente,hotel,enviado
+L0037,2026-11-03,redes,Esteban Soto,esteban.soto56@ejemplo.cl,+569 000 1452,Zona Sur,hotel,enviado
+L0038,2026-11-20,web,Laura Rojas,laura.rojas67@ejemplo.cl,+569 000 8711,Zona Norte,restaurante,enviado
+L0039,2026-11-01,feria,Francisca Torres,francisca.torres44@ejemplo.cl,+569 000 8381,Zona Centro,restaurante,enviado
+L0040,2026-11-07,redes,Esteban Ortiz,esteban.ortiz16@ejemplo.cl,+569 000 6450,Zona Sur,hogar,enviado
+L0041,2026-11-02,referido,Kevin Díaz,kevin.diaz61@ejemplo.cl,+569 000 2323,Zona Centro,oficina,error de envío
+L0042,2026-11-13,feria,Hilda Muñoz,hilda.muñoz14@ejemplo.cl,+569 000 8073,Zona Sur,hotel,error de envío
+L0043,2026-11-01,redes,Gonzalo Soto,gonzalo.soto26@ejemplo.cl,+569 000 5665,Zona Norte,hogar,enviado
+L0044,2026-11-05,feria,Kevin Muñoz,kevin.muñoz81@ejemplo.cl,+569 000 4730,Zona Centro,hotel,enviado
+L0045,2026-11-16,referido,Ignacio Muñoz,ignacio.muñoz98@ejemplo.cl,+569 000 5131,Zona Sur,oficina,enviado
+L0046,2026-11-13,feria,Kevin Torres,kevin.torres59ejemplo.cl,+569 000 8185,Zona Centro,restaurante,enviado
+L0047,2026-11-13,web,Kevin Díaz,kevin.diaz45@ejemplo.cl,+569 000 2031,Zona Norte,restaurante,enviado
+L0048,2026-11-11,feria,Hilda Mora,hilda.mora15@ejemplo.cl,+569 000 2689,Zona Oriente,hogar,enviado
+L0049,2026-11-02,feria,Camilo Silva,camilo.silva18@ejemplo.cl,+569 000 8647,Zona Norte,oficina,enviado
+L0050,2026-11-09,feria,Laura Leiva,laura.leiva93@ejemplo.cl,+569 000 5266,Zona Sur,hogar,enviado
+L0051,2026-11-09,referido,Jimena Silva,jimena.silva1@ejemplo.cl,+569 000 6511,Zona Norte,oficina,error de envío
+L0052,2026-11-17,referido,Laura Leiva,laura.leiva25@ejemplo.cl,+569 000 3564,Zona Centro,hotel,enviado
+L0053,2026-11-12,redes,Gonzalo Ortiz,gonzalo.ortiz79@ejemplo.cl,+569 000 8340,Zona Oriente,oficina,enviado
+L0054,2026-11-07,feria,Laura Muñoz,laura.muñoz15@ejemplo.cl,+569 000 3235,Zona Centro,hogar,enviado
+L0055,2026-11-10,feria,Gonzalo Silva,gonzalo.silva50@ejemplo.cl,+569 000 5218,Zona Norte,restaurante,enviado
+L0056,2026-11-18,referido,Gonzalo Campos,gonzalo.campos10@ejemplo.cl,+569 000 6205,Zona Oriente,restaurante,enviado
+L0057,2026-11-09,redes,Ignacio Rojas,ignacio.rojas92@ejemplo.cl,+569 000 3059,Zona Sur,hogar,enviado
+L0058,2026-11-06,web,Ignacio Soto,ignacio.soto12@ejemplo.cl,,Zona Centro,hogar,enviado
+L0059,2026-11-05,referido,Kevin Leiva,kevin.leiva5@ejemplo.cl,+569 000 6019,Zona Oriente,hogar,enviado
+L0060,2026-11-15,web,Gonzalo Ortiz,gonzalo.ortiz40@ejemplo.cl,+569 000 5975,Zona Sur,oficina,error de envío
+L0061,2026-11-16,feria,Kevin Rojas,kevin.rojas60@ejemplo.cl,+569 000 5634,Zona Sur,restaurante,enviado
+L0062,2026-11-13,referido,Gonzalo Ortiz,gonzalo.ortiz8@ejemplo.cl,,Zona Oriente,oficina,enviado
+L0063,2026-11-14,web,Kevin Pérez,kevin.perez28@ejemplo.cl,+569 000 9326,Zona Sur,hogar,enviado
+L0064,2026-11-04,feria,Gonzalo Muñoz,gonzalo.muñoz57@ejemplo.cl,+569 000 3226,Zona Oriente,restaurante,enviado
+L0065,2026-11-04,web,Hilda Leiva,hilda.leiva92@ejemplo.cl,+569 000 4060,Zona Centro,restaurante,enviado
+L0066,2026-11-02,web,Kevin Díaz,kevin.diaz71@ejemplo.cl,+569 000 1840,Zona Centro,restaurante,enviado
+L0067,2026-11-11,web,Daniela Pérez,daniela.perez71@ejemplo.cl,+569 000 9482,Zona Norte,restaurante,enviado
+L0068,2026-11-16,web,Camilo Campos,camilo.campos80@ejemplo.cl,,Zona Centro,hogar,enviado
+L0069,2026-11-20,redes,Hilda Leiva,hilda.leiva83@ejemplo.cl,+569 000 5462,Zona Centro,restaurante,enviado
+L0070,2026-11-13,feria,Gonzalo Silva,gonzalo.silva72@ejemplo.cl,+569 000 5700,Zona Norte,oficina,enviado
+L0071,2026-11-14,referido,Francisca Silva,francisca.silva36@ejemplo.cl,+569 000 9339,Zona Sur,oficina,enviado
+L0072,2026-11-09,redes,Hilda Díaz,hilda.diaz22@ejemplo.cl,+569 000 2800,Zona Sur,restaurante,enviado
+L0073,2026-11-14,web,Daniela Soto,daniela.soto69@ejemplo.cl,,Zona Centro,hogar,enviado
+L0074,2026-11-14,web,Daniela Leiva,daniela.leiva82@ejemplo.cl,+569 000 2851,Zona Sur,hotel,enviado
+L0075,2026-11-07,redes,Jimena Mora,jimena.mora89@ejemplo.cl,+569 000 2677,Zona Sur,hogar,error de envío
+L0076,2026-11-10,web,Esteban Soto,esteban.soto12@ejemplo.cl,,Zona Sur,hogar,enviado
+L0077,2026-11-19,referido,Bárbara Torres,barbara.torres81ejemplo.cl,+569 000 6676,Zona Sur,restaurante,enviado
+L0078,2026-11-05,feria,Jimena Ortiz,jimena.ortiz48@ejemplo.cl,+569 000 1062,Zona Centro,restaurante,enviado
+L0079,2026-11-11,feria,Kevin Silva,kevin.silva35@ejemplo.cl,+569 000 1676,Zona Sur,hotel,enviado
+L0080,2026-11-18,referido,Daniela Díaz,daniela.diaz46@ejemplo.cl,+569 000 6790,Zona Sur,hogar,enviado
+L0081,2026-11-16,feria,Andrés Silva,andres.silva41@ejemplo.cl,+569 000 6331,Zona Centro,oficina,enviado
+L0082,2026-11-04,web,Camilo Silva,camilo.silva51@ejemplo.cl,,Zona Sur,oficina,enviado
+L0083,2026-11-04,redes,Andrés Silva,andres.silva24@ejemplo.cl,+569 000 9036,Zona Sur,oficina,enviado
+L0084,2026-11-12,redes,Ignacio Vera,ignacio.vera14@ejemplo.cl,+569 000 5353,Zona Oriente,hotel,enviado
+L0085,2026-11-02,referido,Andrés Campos,andres.campos62@ejemplo.cl,+569 000 4791,Zona Norte,hotel,enviado
+L0086,2026-11-12,referido,Gonzalo Mora,gonzalo.mora50@ejemplo.cl,,Zona Norte,hogar,enviado
+L0087,2026-11-10,feria,Kevin Díaz,kevin.diaz62@ejemplo.cl,+569 000 2992,Zona Norte,oficina,enviado
+L0088,2026-11-09,referido,Francisca Pérez,francisca.perez5@ejemplo.cl,+569 000 8677,Zona Centro,oficina,enviado
+L0089,2026-11-16,feria,Ignacio Campos,ignacio.campos82@ejemplo.cl,+569 000 3335,Zona Norte,oficina,enviado
+L0090,2026-11-09,redes,Camilo Leiva,camilo.leiva14@ejemplo.cl,+569 000 1913,Zona Norte,restaurante,enviado
+L0091,2026-11-01,referido,Gonzalo Silva,gonzalo.silva58@ejemplo.cl,+569 000 1387,Zona Sur,hotel,enviado
+L0092,2026-11-05,feria,Bárbara Leiva,barbara.leiva5@ejemplo.cl,+569 000 8795,Zona Norte,hogar,enviado
+L0093,2026-11-14,referido,Kevin Muñoz,kevin.muñoz10@ejemplo.cl,+569 000 1314,Zona Norte,hotel,enviado
+L0094,2026-11-09,referido,Bárbara Díaz,barbara.diaz97@ejemplo.cl,+569 000 5956,Zona Centro,hotel,enviado
+L0095,2026-11-16,web,Esteban Soto,esteban.soto51@ejemplo.cl,+569 000 3026,Zona Oriente,hogar,enviado
+L0096,2026-11-10,redes,Laura Vera,laura.vera3@ejemplo.cl,+569 000 1896,Zona Sur,restaurante,enviado
+L0097,2026-11-02,web,Francisca Soto,francisca.soto50@ejemplo.cl,,Zona Norte,hotel,enviado
+L0098,2026-11-10,referido,Camilo Rojas,camilo.rojas52@ejemplo.cl,+569 000 6800,Zona Sur,hogar,enviado
+L0099,2026-11-14,feria,Kevin Campos,kevin.campos85@ejemplo.cl,+569 000 4491,Zona Sur,hotel,enviado
+L0100,2026-11-18,web,Esteban Díaz,esteban.diaz49@ejemplo.cl,+569 000 6943,Zona Sur,oficina,enviado
+L0101,2026-11-20,redes,Bárbara Leiva,barbara.leiva26@ejemplo.cl,,Zona Centro,hotel,enviado
+L0102,2026-11-19,web,Laura Vera,laura.vera2@ejemplo.cl,+569 000 1542,Zona Oriente,oficina,enviado
+L0103,2026-11-15,feria,Bárbara Vera,barbara.vera72@ejemplo.cl,,Zona Sur,hotel,enviado
+L0104,2026-11-18,web,Hilda Soto,hilda.soto35@ejemplo.cl,+569 000 5824,Zona Sur,hogar,enviado
+L0105,2026-11-12,referido,Daniela Silva,daniela.silva23@ejemplo.cl,+569 000 3069,Zona Oriente,restaurante,enviado
+L0106,2026-11-02,web,Jimena Silva,jimena.silva89ejemplo.cl,+569 000 5109,Zona Oriente,hogar,enviado
+L0107,2026-11-19,feria,Kevin Silva,kevin.silva90@ejemplo.cl,+569 000 3766,Zona Norte,restaurante,enviado
+L0108,2026-11-12,redes,Francisca Muñoz,francisca.muñoz83@ejemplo.cl,+569 000 1989,Zona Norte,restaurante,error de envío
+L0109,2026-11-08,referido,Jimena Vera,jimena.vera58@ejemplo.cl,+569 000 5232,Zona Centro,restaurante,enviado
+L0110,2026-11-13,referido,Camilo Rojas,camilo.rojas1@ejemplo.cl,+569 000 4228,Zona Oriente,restaurante,enviado
+L0111,2026-11-17,redes,Kevin Soto,kevin.soto57@ejemplo.cl,+569 000 4615,Zona Oriente,oficina,enviado
+L0112,2026-11-01,web,Laura Torres,laura.torres22@ejemplo.cl,+569 000 5768,Zona Oriente,hotel,enviado
+L0113,2026-11-14,redes,Jimena Soto,jimena.soto3@ejemplo.cl,+569 000 2781,Zona Centro,hogar,enviado
+L0114,2026-11-08,redes,Francisca Rojas,francisca.rojas24@ejemplo.cl,+569 000 2923,Zona Oriente,hotel,enviado
+L0115,2026-11-02,feria,Bárbara Mora,barbara.mora41@ejemplo.cl,+569 000 9330,Zona Sur,hogar,enviado
+L0116,2026-11-10,feria,Laura Silva,laura.silva3@ejemplo.cl,+569 000 2081,Zona Sur,restaurante,enviado
+L0117,2026-11-17,redes,Camilo Soto,camilo.soto89@ejemplo.cl,,Zona Centro,hogar,enviado
+L0118,2026-11-05,redes,Daniela Pérez,daniela.perez20@ejemplo.cl,+569 000 5354,Zona Centro,hogar,enviado
+L0119,2026-11-15,feria,Bárbara Soto,barbara.soto24@ejemplo.cl,+569 000 6531,Zona Sur,oficina,enviado
+L0120,2026-11-15,referido,Hilda Vera,hilda.vera12ejemplo.cl,+569 000 9128,Zona Norte,hogar,enviado
+L0121,2026-11-20,referido,Francisca Díaz,francisca.diaz76@ejemplo.cl,+569 000 1003,Zona Norte,hogar,enviado
+L0122,2026-11-15,referido,Daniela Soto,daniela.soto40@ejemplo.cl,+569 000 1509,Zona Centro,hotel,enviado
+L0123,2026-11-20,referido,Andrés Muñoz,andres.muñoz92@ejemplo.cl,+569 000 4528,Zona Sur,oficina,enviado
+L0124,2026-11-15,referido,Jimena Silva,jimena.silva78@ejemplo.cl,+569 000 8781,Zona Centro,hotel,enviado
+L0125,2026-11-15,feria,Hilda Mora,hilda.mora60@ejemplo.cl,+569 000 7887,Zona Norte,restaurante,enviado
+L0126,2026-11-13,feria,Francisca Rojas,francisca.rojas12@ejemplo.cl,+569 000 3082,Zona Norte,hogar,enviado
+L0127,2026-11-07,redes,Ignacio Ortiz,ignacio.ortiz41@ejemplo.cl,+569 000 6097,Zona Sur,hogar,enviado
+L0128,2026-11-04,referido,Esteban Campos,esteban.campos46@ejemplo.cl,+569 000 3281,Zona Oriente,oficina,enviado
+L0129,2026-11-03,redes,Gonzalo Leiva,gonzalo.leiva25@ejemplo.cl,+569 000 7121,Zona Norte,oficina,enviado
+L0130,2026-11-06,referido,Kevin Campos,kevin.campos29@ejemplo.cl,+569 000 4807,Zona Sur,hogar,enviado
+L0131,2026-11-15,referido,Camilo Vera,camilo.vera5@ejemplo.cl,+569 000 9913,Zona Oriente,hogar,enviado
+L0132,2026-11-17,web,Francisca Campos,francisca.campos96@ejemplo.cl,+569 000 3573,Zona Oriente,oficina,enviado
+L0133,2026-11-02,web,Gonzalo Rojas,gonzalo.rojas46@ejemplo.cl,,Zona Centro,hotel,enviado
+L0134,2026-11-04,web,Esteban Campos,esteban.campos6@ejemplo.cl,+569 000 4855,Zona Centro,oficina,enviado
+L0135,2026-11-13,redes,Francisca Vera,francisca.vera41@ejemplo.cl,+569 000 6933,Zona Sur,hotel,enviado
+L0136,2026-11-10,web,Andrés Vera,andres.vera52@ejemplo.cl,+569 000 1994,Zona Norte,hotel,enviado
+L0137,2026-11-04,web,Daniela Torres,daniela.torres57@ejemplo.cl,+569 000 4700,Zona Oriente,restaurante,enviado
+L0138,2026-11-06,web,Hilda Pérez,hilda.perez97@ejemplo.cl,+569 000 1909,Zona Sur,oficina,enviado
+L0139,2026-11-04,referido,Camilo Rojas,camilo.rojas84@ejemplo.cl,+569 000 6324,Zona Centro,hotel,enviado
+L0140,2026-11-03,referido,Andrés Díaz,andres.diaz38@ejemplo.cl,+569 000 8931,Zona Centro,hogar,enviado
+L0141,2026-11-05,web,Andrés Vera,andres.vera35@ejemplo.cl,+569 000 7389,Zona Oriente,oficina,enviado
+L0142,2026-11-14,referido,Gonzalo Pérez,gonzalo.perez3@ejemplo.cl,+569 000 5262,Zona Sur,oficina,enviado
+L0143,2026-11-04,redes,Kevin Leiva,kevin.leiva2ejemplo.cl,+569 000 3080,Zona Oriente,oficina,enviado
+L0144,2026-11-11,redes,Jimena Pérez,jimena.perez74@ejemplo.cl,+569 000 9563,Zona Sur,hotel,enviado
+L0145,2026-11-16,feria,Andrés Torres,andres.torres65@ejemplo.cl,+569 000 2815,Zona Sur,oficina,error de envío
+L0146,2026-11-03,web,Francisca Díaz,francisca.diaz74@ejemplo.cl,+569 000 2819,Zona Sur,restaurante,enviado
+L0147,2026-11-20,feria,Francisca Torres,francisca.torres3@ejemplo.cl,+569 000 9007,Zona Sur,hogar,enviado
+L0148,2026-11-10,referido,Andrés Muñoz,andres.muñoz19@ejemplo.cl,+569 000 8263,Zona Sur,restaurante,enviado
+L0149,2026-11-08,web,Esteban Muñoz,esteban.muñoz51@ejemplo.cl,+569 000 7477,Zona Norte,oficina,enviado
+L0150,2026-11-08,feria,Bárbara Muñoz,barbara.muñoz62@ejemplo.cl,+569 000 3585,Zona Norte,hotel,enviado
+L0151,2026-11-19,referido,Hilda Campos,hilda.campos77@ejemplo.cl,+569 000 7692,Zona Centro,hotel,enviado
+L0152,2026-11-06,web,Andrés Torres,andres.torres16@ejemplo.cl,+569 000 4807,Zona Oriente,hotel,enviado
+L0153,2026-11-07,web,Hilda Díaz,hilda.diaz81@ejemplo.cl,+569 000 9658,Zona Sur,restaurante,enviado
+L0154,2026-11-10,redes,Camilo Ortiz,camilo.ortiz28@ejemplo.cl,+569 000 8538,Zona Oriente,hotel,enviado
+L0155,2026-11-06,referido,Francisca Muñoz,francisca.muñoz85@ejemplo.cl,+569 000 6035,Zona Oriente,oficina,enviado
+L0156,2026-11-18,referido,Kevin Soto,kevin.soto46@ejemplo.cl,+569 000 9611,Zona Oriente,hotel,enviado
+L0157,2026-11-13,web,Daniela Torres,daniela.torres81@ejemplo.cl,+569 000 5406,Zona Oriente,hogar,enviado
+L0158,2026-11-08,feria,Hilda Pérez,hilda.perez15@ejemplo.cl,+569 000 9601,Zona Norte,hogar,enviado
+L0159,2026-11-05,redes,Kevin Vera,kevin.vera82@ejemplo.cl,+569 000 1830,Zona Centro,hotel,enviado
+L0160,2026-11-02,feria,Camilo Vera,camilo.vera39@ejemplo.cl,+569 000 6896,Zona Sur,restaurante,enviado
+L0161,2026-11-12,web,Andrés Campos,andres.campos54@ejemplo.cl,,Zona Centro,restaurante,enviado
+L0162,2026-11-10,referido,Francisca Mora,francisca.mora36@ejemplo.cl,+569 000 6415,Zona Centro,hogar,enviado
+L0163,2026-11-07,referido,Camilo Rojas,camilo.rojas55@ejemplo.cl,+569 000 9650,Zona Norte,restaurante,enviado
+L0164,2026-11-06,referido,Jimena Vera,jimena.vera47@ejemplo.cl,+569 000 7090,Zona Centro,hogar,enviado
+L0165,2026-11-05,web,Laura Silva,laura.silva28@ejemplo.cl,+569 000 7411,Zona Centro,hogar,enviado
+L0166,2026-11-08,web,Bárbara Rojas,barbara.rojas63@ejemplo.cl,+569 000 8279,Zona Oriente,oficina,enviado
+L0167,2026-11-13,redes,Hilda Vera,hilda.vera16@ejemplo.cl,+569 000 6578,Zona Centro,restaurante,enviado
+L0168,2026-11-06,referido,Gonzalo Díaz,gonzalo.diaz30@ejemplo.cl,+569 000 1194,Zona Norte,hotel,enviado
+L0169,2026-11-19,referido,Hilda Soto,hilda.soto12ejemplo.cl,+569 000 8490,Zona Norte,hotel,enviado
+L0170,2026-11-11,redes,Jimena Pérez,jimena.perez16ejemplo.cl,+569 000 8298,Zona Centro,restaurante,enviado
+L0171,2026-11-07,feria,Laura Silva,laura.silva10@ejemplo.cl,+569 000 2756,Zona Centro,oficina,enviado
+L0172,2026-11-14,feria,Bárbara Ortiz,barbara.ortiz69@ejemplo.cl,+569 000 1206,Zona Centro,hotel,enviado
+L0173,2026-11-08,feria,Gonzalo Leiva,gonzalo.leiva17@ejemplo.cl,+569 000 9780,Zona Centro,oficina,enviado
+L0174,2026-11-16,referido,Bárbara Vera,barbara.vera56@ejemplo.cl,+569 000 7026,Zona Centro,hogar,enviado
+L0175,2026-11-09,web,Camilo Silva,camilo.silva46@ejemplo.cl,+569 000 3193,Zona Sur,restaurante,enviado
+L0176,2026-11-08,web,Hilda Pérez,hilda.perez78@ejemplo.cl,+569 000 3825,Zona Norte,hotel,enviado
+L0177,2026-11-11,feria,Esteban Rojas,esteban.rojas35@ejemplo.cl,+569 000 3555,Zona Sur,oficina,enviado
+L0178,2026-11-03,web,Jimena Pérez,jimena.perez5@ejemplo.cl,+569 000 8316,Zona Norte,hotel,error de envío
+L0179,2026-11-18,feria,Francisca Silva,francisca.silva32@ejemplo.cl,+569 000 5216,Zona Centro,restaurante,enviado
+L0180,2026-11-17,redes,Gonzalo Díaz,gonzalo.diaz40@ejemplo.cl,+569 000 4813,Zona Centro,hotel,enviado
+L0181,2026-11-02,redes,Kevin Díaz,kevin.diaz48@ejemplo.cl,+569 000 2616,Zona Sur,restaurante,enviado
+L0182,2026-11-09,web,Daniela Díaz,daniela.diaz66@ejemplo.cl,+569 000 8138,Zona Norte,hotel,enviado
+L0183,2026-11-04,web,Jimena Muñoz,jimena.muñoz42@ejemplo.cl,+569 000 6480,Zona Oriente,restaurante,enviado
+L0184,2026-11-19,redes,Gonzalo Campos,gonzalo.campos98@ejemplo.cl,+569 000 3099,Zona Norte,restaurante,enviado
+L0185,2026-11-18,redes,Kevin Silva,kevin.silva94@ejemplo.cl,,Zona Sur,hotel,enviado
+L0186,2026-11-15,feria,Francisca Díaz,francisca.diaz27@ejemplo.cl,+569 000 2067,Zona Norte,hogar,enviado
+L0187,2026-11-07,referido,Kevin Muñoz,kevin.muñoz94@ejemplo.cl,+569 000 2129,Zona Oriente,oficina,enviado
+L0188,2026-11-17,web,Jimena Pérez,jimena.perez78@ejemplo.cl,+569 000 4339,Zona Oriente,hogar,enviado
+L0189,2026-11-09,referido,Kevin Mora,kevin.mora59@ejemplo.cl,+569 000 2878,Zona Oriente,hotel,enviado
+L0190,2026-11-07,referido,Daniela Mora,daniela.mora41@ejemplo.cl,+569 000 2656,Zona Sur,restaurante,enviado
+L0191,2026-11-01,redes,Gonzalo Vera,gonzalo.vera88@ejemplo.cl,+569 000 5799,Zona Centro,oficina,enviado
+L0192,2026-11-19,referido,Camilo Muñoz,camilo.muñoz95@ejemplo.cl,+569 000 4709,Zona Centro,oficina,error de envío
+L0193,2026-11-18,web,Camilo Campos,camilo.campos8@ejemplo.cl,+569 000 3156,Zona Oriente,hogar,enviado
+L0194,2026-11-06,redes,Daniela Ortiz,daniela.ortiz83@ejemplo.cl,+569 000 3558,Zona Centro,hotel,enviado
+L0195,2026-11-20,referido,Camilo Rojas,camilo.rojas44@ejemplo.cl,,Zona Centro,oficina,enviado
+L0196,2026-11-08,web,Esteban Díaz,esteban.diaz67@ejemplo.cl,+569 000 4067,Zona Sur,hogar,enviado
+L0197,2026-11-19,referido,Camilo Pérez,camilo.perez8@ejemplo.cl,+569 000 5878,Zona Centro,oficina,enviado
+L0198,2026-11-13,redes,Hilda Campos,hilda.campos4ejemplo.cl,+569 000 7735,Zona Norte,restaurante,enviado
+L0199,2026-11-17,feria,Gonzalo Campos,gonzalo.campos55@ejemplo.cl,+569 000 9092,Zona Centro,hogar,enviado
+L0200,2026-11-20,redes,Camilo Mora,camilo.mora10@ejemplo.cl,,Zona Norte,restaurante,enviado
+L0201,2026-11-10,redes,Jimena Campos,jimena.campos67@ejemplo.cl,+569 000 7418,Zona Sur,hogar,enviado
+L0202,2026-11-08,redes,Ignacio Pérez,ignacio.perez1@ejemplo.cl,+569 000 8358,Zona Centro,hotel,enviado
+L0203,2026-11-13,web,Jimena Silva,jimena.silva41@ejemplo.cl,+569 000 1910,Zona Norte,restaurante,enviado
+L0204,2026-11-07,referido,Francisca Muñoz,francisca.muñoz34@ejemplo.cl,+569 000 5152,Zona Oriente,restaurante,enviado
+L0205,2026-11-17,feria,Jimena Silva,jimena.silva42@ejemplo.cl,+569 000 9609,Zona Sur,restaurante,enviado
+L0206,2026-11-11,redes,Kevin Rojas,kevin.rojas60@ejemplo.cl,,Zona Centro,restaurante,enviado
+L0207,2026-11-04,web,Esteban Leiva,esteban.leiva81@ejemplo.cl,,Zona Oriente,hotel,enviado
+L0208,2026-11-05,redes,Camilo Soto,camilo.soto33@ejemplo.cl,+569 000 7803,Zona Norte,oficina,enviado
+L0209,2026-11-03,referido,Daniela Campos,daniela.campos45@ejemplo.cl,,Zona Oriente,restaurante,enviado
+L0210,2026-11-06,redes,Gonzalo Silva,gonzalo.silva89@ejemplo.cl,+569 000 1621,Zona Sur,hogar,enviado
+L0211,2026-11-16,redes,Andrés Silva,andres.silva34@ejemplo.cl,+569 000 7930,Zona Oriente,restaurante,enviado
+L0212,2026-11-12,feria,Daniela Mora,daniela.mora69@ejemplo.cl,+569 000 1580,Zona Norte,hogar,enviado
+L0213,2026-11-06,redes,Francisca Torres,francisca.torres34@ejemplo.cl,+569 000 4859,Zona Oriente,hotel,enviado
+L0214,2026-11-03,web,Kevin Leiva,kevin.leiva12@ejemplo.cl,+569 000 3325,Zona Norte,hogar,enviado
+L0215,2026-11-14,web,Jimena Rojas,jimena.rojas76@ejemplo.cl,,Zona Oriente,hogar,enviado
+L0216,2026-11-18,web,Daniela Silva,daniela.silva34@ejemplo.cl,+569 000 8163,Zona Centro,restaurante,enviado
+L0217,2026-11-17,feria,Gonzalo Díaz,gonzalo.diaz66@ejemplo.cl,+569 000 8260,Zona Centro,hogar,enviado
+L0218,2026-11-04,feria,Hilda Vera,hilda.vera9@ejemplo.cl,+569 000 3069,Zona Oriente,oficina,enviado
+L0219,2026-11-06,feria,Andrés Muñoz,andres.muñoz38@ejemplo.cl,,Zona Oriente,oficina,enviado
+L0220,2026-11-17,feria,Camilo Silva,camilo.silva53@ejemplo.cl,+569 000 3584,Zona Centro,hotel,enviado
+L0221,2026-11-14,feria,Bárbara Vera,barbara.vera96@ejemplo.cl,+569 000 4433,Zona Centro,restaurante,enviado
+L0222,2026-11-16,web,Gonzalo Muñoz,gonzalo.muñoz16@ejemplo.cl,+569 000 5502,Zona Norte,hogar,enviado
+L0223,2026-11-03,referido,Ignacio Ortiz,ignacio.ortiz95@ejemplo.cl,+569 000 4444,Zona Oriente,oficina,enviado
+L0224,2026-11-09,web,Ignacio Vera,ignacio.vera92@ejemplo.cl,,Zona Sur,hogar,enviado
+L0225,2026-11-07,feria,Esteban Campos,esteban.campos54@ejemplo.cl,+569 000 3816,Zona Oriente,hogar,enviado
+L0226,2026-11-04,referido,Francisca Muñoz,francisca.muñoz90@ejemplo.cl,+569 000 3328,Zona Oriente,oficina,enviado
+L0227,2026-11-02,web,Kevin Vera,kevin.vera56@ejemplo.cl,+569 000 2367,Zona Centro,restaurante,enviado
+L0228,2026-11-12,web,Francisca Soto,francisca.soto29@ejemplo.cl,+569 000 5358,Zona Centro,restaurante,enviado
+L0229,2026-11-13,referido,Daniela Leiva,daniela.leiva97@ejemplo.cl,+569 000 7217,Zona Norte,oficina,enviado
+L0230,2026-11-09,redes,Daniela Muñoz,daniela.muñoz79@ejemplo.cl,,Zona Sur,hogar,enviado
+L0231,2026-11-03,referido,Laura Pérez,laura.perez45@ejemplo.cl,+569 000 4716,Zona Sur,hotel,enviado
+L0232,2026-11-18,web,Hilda Campos,hilda.campos83@ejemplo.cl,+569 000 7546,Zona Norte,hogar,enviado
+L0233,2026-11-02,redes,Gonzalo Soto,gonzalo.soto16@ejemplo.cl,+569 000 9751,Zona Norte,oficina,enviado
+L0234,2026-11-12,redes,Jimena Mora,jimena.mora24@ejemplo.cl,+569 000 7421,Zona Oriente,hogar,enviado
+L0235,2026-11-06,feria,Francisca Muñoz,francisca.muñoz13@ejemplo.cl,+569 000 4483,Zona Centro,hogar,enviado
+L0236,2026-11-03,web,Gonzalo Pérez,gonzalo.perez43@ejemplo.cl,+569 000 9097,Zona Norte,restaurante,enviado
+L0237,2026-11-15,referido,Laura Campos,laura.campos52@ejemplo.cl,+569 000 3621,Zona Centro,hogar,enviado
+L0238,2026-11-05,feria,Kevin Leiva,kevin.leiva40@ejemplo.cl,+569 000 3607,Zona Norte,hotel,enviado
+L0239,2026-11-05,redes,Jimena Ortiz,jimena.ortiz64@ejemplo.cl,+569 000 4999,Zona Sur,hogar,enviado
+L0240,2026-11-03,referido,Daniela Leiva,daniela.leiva75@ejemplo.cl,+569 000 7826,Zona Centro,oficina,enviado
+L0241,2026-11-10,feria,Francisca Díaz,francisca.diaz25@ejemplo.cl,+569 000 9882,Zona Sur,oficina,enviado
+L0242,2026-11-15,referido,Ignacio Silva,ignacio.silva28@ejemplo.cl,+569 000 6265,Zona Norte,hotel,enviado
+L0243,2026-11-18,redes,Andrés Díaz,andres.diaz26ejemplo.cl,+569 000 3762,Zona Norte,restaurante,enviado
+L0244,2026-11-02,feria,Francisca Soto,francisca.soto72@ejemplo.cl,+569 000 3681,Zona Sur,hogar,enviado
+L0245,2026-11-14,redes,Esteban Vera,esteban.vera64@ejemplo.cl,+569 000 5016,Zona Sur,hotel,enviado
+L0246,2026-11-05,feria,Laura Muñoz,laura.muñoz58@ejemplo.cl,+569 000 1463,Zona Norte,oficina,enviado
+L0247,2026-11-20,feria,Daniela Ortiz,daniela.ortiz24@ejemplo.cl,+569 000 5550,Zona Centro,hogar,enviado
+L0248,2026-11-09,referido,Daniela Rojas,daniela.rojas88@ejemplo.cl,+569 000 7373,Zona Norte,hogar,enviado
+L0249,2026-11-14,web,Kevin Silva,kevin.silva71@ejemplo.cl,+569 000 8252,Zona Norte,restaurante,enviado
+L0250,2026-11-14,redes,Gonzalo Silva,gonzalo.silva8@ejemplo.cl,+569 000 9108,Zona Oriente,hotel,enviado
+L0251,2026-11-10,feria,Francisca Mora,francisca.mora33@ejemplo.cl,+569 000 6207,Zona Sur,oficina,enviado
+L0252,2026-11-20,referido,Daniela Pérez,daniela.perez57@ejemplo.cl,+569 000 9023,Zona Norte,hotel,enviado
+L0253,2026-11-08,web,Camilo Ortiz,camilo.ortiz70ejemplo.cl,+569 000 1515,Zona Sur,hogar,enviado
+L0254,2026-11-10,web,Bárbara Muñoz,barbara.muñoz47@ejemplo.cl,+569 000 3342,Zona Sur,hotel,enviado
+L0255,2026-11-06,feria,Andrés Ortiz,andres.ortiz90@ejemplo.cl,+569 000 6028,Zona Centro,hogar,enviado
+L0256,2026-11-01,redes,Francisca Torres,francisca.torres95@ejemplo.cl,+569 000 3330,Zona Sur,restaurante,enviado
+L0257,2026-11-06,redes,Jimena Mora,jimena.mora85@ejemplo.cl,+569 000 7204,Zona Sur,restaurante,enviado
+L0258,2026-11-07,web,Esteban Soto,esteban.soto9@ejemplo.cl,+569 000 2298,Zona Oriente,hogar,enviado
+L0259,2026-11-05,feria,Camilo Torres,camilo.torres19@ejemplo.cl,+569 000 2337,Zona Sur,restaurante,enviado
+L0260,2026-11-11,redes,Camilo Campos,camilo.campos58@ejemplo.cl,,Zona Centro,oficina,enviado
+L0261,2026-11-08,referido,Daniela Silva,daniela.silva33@ejemplo.cl,+569 000 5757,Zona Sur,hogar,enviado
+L0262,2026-11-05,redes,Francisca Soto,francisca.soto69@ejemplo.cl,,Zona Oriente,hogar,enviado
+L0263,2026-11-06,web,Kevin Muñoz,kevin.muñoz71@ejemplo.cl,+569 000 8528,Zona Oriente,oficina,enviado
+L0264,2026-11-19,referido,Ignacio Campos,ignacio.campos39@ejemplo.cl,+569 000 4831,Zona Sur,oficina,enviado
+L0265,2026-11-01,redes,Hilda Díaz,hilda.diaz46@ejemplo.cl,+569 000 3273,Zona Norte,oficina,enviado
+L0266,2026-11-15,referido,Jimena Torres,jimena.torres77@ejemplo.cl,+569 000 8946,Zona Norte,hotel,enviado
+L0267,2026-11-20,redes,Jimena Muñoz,jimena.muñoz27@ejemplo.cl,,Zona Sur,hogar,enviado
+L0268,2026-11-06,web,Hilda Soto,hilda.soto47@ejemplo.cl,+569 000 8516,Zona Centro,oficina,enviado
+L0269,2026-11-09,web,Andrés Vera,andres.vera13@ejemplo.cl,+569 000 8747,Zona Norte,oficina,enviado
+L0270,2026-11-14,web,Laura Campos,laura.campos7@ejemplo.cl,+569 000 2007,Zona Centro,hotel,enviado
+L0271,2026-11-08,web,Camilo Leiva,camilo.leiva73@ejemplo.cl,+569 000 3683,Zona Oriente,hotel,enviado
+L0272,2026-11-04,referido,Ignacio Leiva,ignacio.leiva84@ejemplo.cl,+569 000 4694,Zona Centro,oficina,enviado
+L0273,2026-11-11,web,Jimena Pérez,jimena.perez55@ejemplo.cl,+569 000 9258,Zona Oriente,restaurante,enviado
+L0274,2026-11-12,redes,Jimena Pérez,jimena.perez18ejemplo.cl,+569 000 3487,Zona Centro,hogar,enviado
+L0275,2026-11-20,feria,Camilo Soto,camilo.soto69@ejemplo.cl,+569 000 5191,Zona Norte,restaurante,enviado
+L0276,2026-11-03,feria,Laura Díaz,laura.diaz19@ejemplo.cl,+569 000 7413,Zona Sur,hogar,enviado
+L0277,2026-11-19,feria,Esteban Campos,esteban.campos91@ejemplo.cl,+569 000 2912,Zona Centro,hotel,enviado
+L0278,2026-11-20,referido,Francisca Vera,francisca.vera57@ejemplo.cl,+569 000 3911,Zona Sur,hogar,enviado
+L0279,2026-11-13,redes,Francisca Rojas,francisca.rojas34@ejemplo.cl,,Zona Oriente,restaurante,enviado
+L0280,2026-11-08,redes,Esteban Ortiz,esteban.ortiz94@ejemplo.cl,+569 000 8443,Zona Oriente,oficina,enviado
+L0281,2026-11-20,web,Ignacio Ortiz,ignacio.ortiz56@ejemplo.cl,+569 000 4366,Zona Sur,hotel,enviado
+L0282,2026-11-17,redes,Ignacio Pérez,ignacio.perez13@ejemplo.cl,+569 000 2702,Zona Norte,oficina,enviado
+L0283,2026-11-05,redes,Esteban Vera,esteban.vera22@ejemplo.cl,+569 000 4439,Zona Centro,hotel,enviado
+L0284,2026-11-18,redes,Ignacio Leiva,ignacio.leiva33@ejemplo.cl,+569 000 5378,Zona Sur,hogar,enviado
+L0285,2026-11-09,redes,Camilo Leiva,camilo.leiva96@ejemplo.cl,+569 000 1101,Zona Centro,hogar,enviado
+L0286,2026-11-11,web,Ignacio Pérez,ignacio.perez82@ejemplo.cl,+569 000 5880,Zona Centro,oficina,enviado
+L0287,2026-11-10,feria,Francisca Campos,francisca.campos76@ejemplo.cl,+569 000 6703,Zona Oriente,hotel,enviado
+L0288,2026-11-20,referido,Camilo Ortiz,camilo.ortiz2@ejemplo.cl,+569 000 3382,Zona Oriente,oficina,enviado
+L0289,2026-11-19,feria,Hilda Vera,hilda.vera43ejemplo.cl,+569 000 2247,Zona Centro,restaurante,enviado
+L0290,2026-11-08,web,Camilo Pérez,camilo.perez77@ejemplo.cl,+569 000 1056,Zona Centro,hotel,enviado
+L0291,2026-11-08,referido,Hilda Campos,hilda.campos85@ejemplo.cl,+569 000 1642,Zona Sur,hogar,enviado
+L0292,2026-11-18,referido,Daniela Torres,daniela.torres55@ejemplo.cl,+569 000 7657,Zona Centro,restaurante,enviado
+L0293,2026-11-14,redes,Jimena Díaz,jimena.diaz60@ejemplo.cl,+569 000 6897,Zona Norte,oficina,enviado
+L0294,2026-11-19,web,Daniela Rojas,daniela.rojas61ejemplo.cl,+569 000 3926,Zona Sur,oficina,enviado
+L0295,2026-11-03,redes,Camilo Rojas,camilo.rojas16@ejemplo.cl,,Zona Centro,hogar,enviado
+L0296,2026-11-02,feria,Esteban Torres,esteban.torres88ejemplo.cl,+569 000 6224,Zona Sur,restaurante,enviado
+L0297,2026-11-17,referido,Camilo Leiva,camilo.leiva39@ejemplo.cl,+569 000 8764,Zona Oriente,hotel,enviado
+L0298,2026-11-05,redes,Francisca Torres,francisca.torres76ejemplo.cl,+569 000 6931,Zona Norte,oficina,enviado
+L0299,2026-11-09,web,Jimena Soto,jimena.soto5@ejemplo.cl,+569 000 2551,Zona Sur,hogar,enviado
+L0300,2026-11-03,redes,Esteban Silva,esteban.silva86@ejemplo.cl,+569 000 2328,Zona Centro,hogar,enviado
+L0301,2026-11-20,redes,Francisca Torres,francisca.torres3@ejemplo.cl,+569 000 9007,Zona Sur,hogar,enviado
+L0302,2026-11-16,redes,Andrés Vera,andres.vera57@ejemplo.cl,,Zona Sur,oficina,enviado
+L0303,2026-11-16,web,Andrés Vera,andres.vera57@ejemplo.cl,,Zona Sur,oficina,enviado
+L0304,2026-11-16,redes,Andrés Silva,andres.silva34@ejemplo.cl,+569 000 7930,Zona Oriente,restaurante,enviado
+L0305,2026-11-02,web,Kevin Díaz,kevin.diaz61@ejemplo.cl,+569 000 2323,Zona Centro,oficina,error de envío
+L0306,2026-11-05,redes,Kevin Leiva,kevin.leiva5@ejemplo.cl,+569 000 6019,Zona Oriente,hogar,enviado
+L0307,2026-11-20,redes,Francisca Torres,francisca.torres3@ejemplo.cl,+569 000 9007,Zona Sur,hogar,enviado
+L0308,2026-11-03,redes,Francisca Díaz,francisca.diaz74@ejemplo.cl,+569 000 2819,Zona Sur,restaurante,enviado
+L0309,2026-11-02,redes,Kevin Vera,kevin.vera56@ejemplo.cl,+569 000 2367,Zona Centro,restaurante,enviado
+L0310,2026-11-17,web,Kevin Soto,kevin.soto57@ejemplo.cl,+569 000 4615,Zona Oriente,oficina,enviado
+L0311,2026-11-07,redes,Camilo Rojas,camilo.rojas55@ejemplo.cl,+569 000 9650,Zona Norte,restaurante,enviado
+L0312,2026-11-06,web,Jimena Mora,jimena.mora85@ejemplo.cl,+569 000 7204,Zona Sur,restaurante,enviado
+L0313,2026-11-05,web,Kevin Leiva,kevin.leiva5@ejemplo.cl,+569 000 6019,Zona Oriente,hogar,enviado
+L0314,2026-11-20,web,Hilda Leiva,hilda.leiva83@ejemplo.cl,+569 000 5462,Zona Centro,restaurante,enviado
+L0315,2026-11-04,redes,Gonzalo Muñoz,gonzalo.muñoz57@ejemplo.cl,+569 000 3226,Zona Oriente,restaurante,enviado

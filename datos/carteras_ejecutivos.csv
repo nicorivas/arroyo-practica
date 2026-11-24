@@ -1,0 +1,9 @@
+ejecutivo_id,zona_base,capacidad_clientes,segmento_especialidad
+E1,Norte,14,hotel
+E2,Centro,18,gimnasio
+E3,Sur,16,restaurante
+E4,Oriente,14,hotel
+E5,Norte,14,oficina
+E6,Centro,14,oficina
+E7,Sur,16,hotel
+E8,Oriente,14,restaurante
